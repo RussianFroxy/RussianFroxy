@@ -32,4 +32,4 @@
 </details>
 
 [twitter]: https://twitter.com/RussianFroxy
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/RussianFroxy
