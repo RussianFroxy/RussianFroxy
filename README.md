@@ -27,7 +27,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="RussianFroxy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RussianFroxy&theme=tokyonight&show_icons=true&cache_seconds=7200](https://github-stats-alpha.vercel.app/api?username=RussianFroxy&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+  <img align="left" alt="RussianFroxy's GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=RussianFroxy&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 
 </details>
 
