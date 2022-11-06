@@ -21,7 +21,7 @@
 
 ### Languages:
 
-<img align="left" alt="RussianFroxy's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussianFroxy&theme=tokyonight" />
+<img alt="RussianFroxy's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussianFroxy&theme=tokyonight" />
 
 <br />
 <br />
