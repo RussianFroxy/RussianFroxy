@@ -19,6 +19,10 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/artur.03_07#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/artur.03_07#gh-dark-mode-only)
 
+### Languages:
+
+<img align="left" alt="RussianFroxy's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussianFroxy&theme=tokyonight" />
+
 <br />
 <br />
 
