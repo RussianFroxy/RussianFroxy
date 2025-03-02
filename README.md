@@ -4,7 +4,7 @@ Hi 👋 My name is Artur Schlee
 Back-end Developer
 ------------------
 
-I've been interested in Tech for as long I can remember. At the age of 11 I got my first computer, and started coding small programs and games. I learned a little Python here and little Html there but never consequently learned a programming language which I regret. Now I'm 16 and want to catch up my programming knowledge by learning Python and C-Sharp.
+I've been interested in Tech for as long I can remember. At the age of 11 I got my first computer, and started coding small programs and games. I learned a little Python here and little Html there but never consequently learned a programming language which I regret. Now I'm 18 and want to catch up my programming knowledge by learning Python and C-Sharp.
 
 * 🌍  I'm based in Aachen, Germany 🇩🇪
 *  🧠  I'm learning Python 🐍 and C-Sharp 💿
